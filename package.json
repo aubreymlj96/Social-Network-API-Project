@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node ./seeds"
+  },
+  "name": "social-network-api-project",
+  "description": "MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. Over the last part of this course, you’ll use several of the technologies that social networking platforms use in their full-stack applications. Because the foundation of these applications is data, it’s important that you understand how to build and structure the API first.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aubreymlj96/Social-Network-API-Project.git"
+  },
+  "author": "aubreyml96",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aubreymlj96/Social-Network-API-Project/issues"
+  },
+  "homepage": "https://github.com/aubreymlj96/Social-Network-API-Project#readme"
+}
